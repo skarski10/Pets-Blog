@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  font-family: Lucida, Arial, sans-serif;
+}
+
+li {
+  font-style: bold;
+  font-family: Impact, sans-serif;
+}
+
+p{
+  color: #e38c2d;
+}
+body{
+  background-color: #6e808f;
+}
+
+.cats{
+  heights: 200px;
+  width: 200px;
+}
