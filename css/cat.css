@@ -11,6 +11,7 @@ li {
 p{
   color: #e38c2d;
 }
+
 body{
   background-color: #6e808f;
 }
@@ -18,4 +19,13 @@ body{
 .cats{
   heights: 200px;
   width: 200px;
+}
+
+.light-background {
+  background-color: white;
+}
+
+.box {
+  background-color: yellow;
+  border: 1px solid black;
 }
